@@ -1,0 +1,13 @@
+speaker_id,class,gender,recording_location,notes
+native01,native,M,cafe,
+native02,native,M,cafe,
+native03,native,F,cafe,
+native04,native,F,cafe,
+native05,native,F,cafe,
+native06,native,M,indoor,
+learner01,learner,M,indoor,N1
+learner02,learner,M,indoor,N1
+learner03,learner,M,indoor,N2
+learner04,learner,M,indoor,N2
+learner05,learner,F,indoor,N3
+learner06,learner,M,indoor,N4
