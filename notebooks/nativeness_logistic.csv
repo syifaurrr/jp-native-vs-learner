@@ -1,0 +1,13 @@
+speaker_id,true,pred,nativeness_score,gender,location
+learner01,learner,learner,0.184838402232131,M,indoor
+learner02,learner,learner,0.28133177005241244,M,indoor
+learner03,learner,learner,0.037865145997459666,M,indoor
+learner04,learner,learner,0.025947808292361273,M,indoor
+learner05,learner,native,0.9043141778988338,F,indoor
+learner06,learner,learner,0.002720905095611562,M,indoor
+native01,native,learner,0.3877442613979208,M,cafe
+native02,native,native,0.662558793311714,M,cafe
+native03,native,native,0.9977711021074994,F,cafe
+native04,native,native,0.7522545033408846,F,cafe
+native05,native,native,0.7140675776345962,F,cafe
+native06,native,learner,0.23786518385070507,M,indoor
